@@ -53,7 +53,7 @@ Ej:
 
 - 📫 Si quieres saber de mi **https://cristianhernandezhv.netlify.app/sobre_mi**
 
-![Avatar](./Avatar.png)
+![Avatar](./Avatar.png)![Logo](./chdv.jpg)
 
 ![cristianh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianh&show_icons=true&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianh&layout=compact)](https://github.com/cristianh)
 
