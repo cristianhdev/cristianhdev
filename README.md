@@ -36,7 +36,7 @@ Ej:
 # Hola 👋, Yo soy Cristian Alberto Hernández #
 
 ## Sobre mi ##
-
+![Logo](./chdv.jpg)
 <div style="text-align: justify">
 <p>Apasionado por la programación y la tecnología, soy Desarrollador Web con conocimientos en varias tecnologías enfocadas al FrontEnd y al BackEnd. Entusiasta con deseos de aportar soluciones a los diferentes proyectos que se presenten, Vivo en la ciudad de Armenia - Quindío. </p>
 </div>
