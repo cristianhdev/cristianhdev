@@ -53,7 +53,7 @@ Ej:
 
 ![Avatar](./Avatar.png)
 
-![cristianh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianh&show_icons=true&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianh&layout=compact)](https://github.com/cristianh)
+(https://github-readme-stats.vercel.app/api?username=cristianh&show_icons=true&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianh&layout=compact)](https://github.com/cristianh)
 
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
