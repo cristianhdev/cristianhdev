@@ -47,8 +47,6 @@ Ej:
 
 - 🌱 Actualmenete me encuentro aprendiendo: **React, Meteor.js**
 
-- 👨‍💻 Puedes ver todos mis proyectos en: [https://cristianhernandezhv.netlify.app/portafolio](https://cristianhernandezhv.netlify.app/https://cristianhernandezhv.netlify.app/portafolio)
-
 - 💬 Preguntame sobre **VUE.JS HTML** , **JAVASCRIPT** , **FIREBASE**
 
 - 📫 Si quieres saber de mi **https://cristianhernandezhv.netlify.app/sobre_mi**
